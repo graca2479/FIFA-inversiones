@@ -1,0 +1,6 @@
+{
+  "name": "Inversión FIFA 2030",
+  "description": "Fondo de inversión de ahorro programado y rendimientos competitivos para asistir a la Copa Mundial FIFA 2030 con simulador financiero, métricas de rendimiento y seguridad biométrica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
